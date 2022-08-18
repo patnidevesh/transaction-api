@@ -63,4 +63,3 @@ BODY: {
 
 
 ### Note - For making payments currently I have integrated with stripe services with the test stripe account.
-### Note - For evaluation purpose I am posting the config file will remove it later.
